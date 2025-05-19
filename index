@@ -22,7 +22,7 @@
 
 
 <br>
-<li><button onclick="location.href='file:///C:/Users/Hp/OneDrive/Escritorio/WEB/index.html'" style="cursor:pointer; background:Fuchsia ; color:white; border:none; padding:8px 16px; box-shadow:2;">Recomendaciones:</button></li>
+<li><button onclick="location.href='https://michelle38907.github.io/indexx/'" style="cursor:pointer; background:Fuchsia ; color:white; border:none; padding:8px 16px; box-shadow:2;">Recomendaciones:</button></li>
 <br>
 <li><button onclick="location.href='file:///C:/Users/Hp/OneDrive/Escritorio/WEB/index.html'" style="cursor:pointer; background:Fuchsia ; color:white; border:none; padding:8px 16px; box-shadow:blue;">Contactos: </button></li>
 </ul>
